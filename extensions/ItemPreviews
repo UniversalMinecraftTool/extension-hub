@@ -1,11 +1,2 @@
-{
-  "link" : "https://github.com/MattPryze/ItemPreviews",
-  "commit" : "bdb4768d8c7a960eab40103becb564259ce9b7f3",
-  "name" : "Item Previews",
-  "version" : 1,
-  "author" : "Matt Pryze",
-  "description" : "Displays item information such as name and count.",
-  "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
-  "extension_types" : ["NBT_EDITOR_STYLE"],
-  "tags" : []
-}
+link=https://github.com/MattPryze/ItemPreviews
+commit=bdb4768d8c7a960eab40103becb564259ce9b7f3
