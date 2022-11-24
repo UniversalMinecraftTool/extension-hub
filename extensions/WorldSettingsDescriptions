@@ -1,0 +1,11 @@
+{
+  "link" : "https://github.com/MattPryze/WorldSettingsDescriptions",
+  "commit" : "eb3538e32089e4ba013547253263c46278cfa6f8",
+  "name" : "World Settings Descriptions",
+  "version" : 1,
+  "author" : "Matt Pryze",
+  "description" : "Describes world settings tags.",
+  "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
+  "extension_types" : ["NBT_EDITOR_STYLE"]
+  "tags" : []
+}
