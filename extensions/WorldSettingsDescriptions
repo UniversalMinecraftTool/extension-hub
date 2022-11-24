@@ -6,6 +6,6 @@
   "author" : "Matt Pryze",
   "description" : "Describes world settings tags.",
   "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
-  "extension_types" : ["NBT_EDITOR_STYLE"]
+  "extension_types" : ["NBT_EDITOR_STYLE"],
   "tags" : []
 }
