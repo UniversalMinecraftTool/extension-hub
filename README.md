@@ -24,7 +24,7 @@ Extensions are written in [Lua 5.3](https://www.lua.org/manual/5.3/). The manife
 }
 ```
 
-`link` should be the github repository link of your extension (ending in .git).
+`link` should be the github repository link of your extension (NOT ending in .git).
 
 `name` is a purely visual display name. It does not need to match the repository name or anything in your code.
 
@@ -61,7 +61,7 @@ link=your repository link
 commit=40 char commit hash
 ```
 
-`link` should be the github repository link of your extension (ending in .git).
+`link` should be the github repository link of your extension (NOT ending in .git).
 
 `commit` should be the 40 character hash of the commit you want to publish.
 
