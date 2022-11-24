@@ -6,6 +6,6 @@
   "author" : "Matt Pryze",
   "description" : "Resolves DataVersion values into their update name.",
   "editions" : ["JAVA"],
-  "extension_types" : ["NBT_EDITOR_STYLE"]
+  "extension_types" : ["NBT_EDITOR_STYLE"],
   "tags" : []
 }
