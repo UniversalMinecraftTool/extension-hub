@@ -1,2 +1,12 @@
-repository=
-commit=
+{
+  "link" : "",
+  "commit" : "",
+  
+  "name" : "Item Previews",
+  "version" : 1,
+  "author" : "Matt Pryze",
+  "description" : "Displays item information such as name and count",
+  "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
+  "extension_types" : ["NBT_EDITOR_STYLE"]
+  "tags" : []
+}
