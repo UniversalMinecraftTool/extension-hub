@@ -1,11 +1,2 @@
-{
-  "link" : "https://github.com/MattPryze/DataVersionResolver",
-  "commit" : "b33a847d7ab6dce97ea1d0dc1cb678101d3a4003",
-  "name" : "DataVersion Resolver",
-  "version" : 1,
-  "author" : "Matt Pryze",
-  "description" : "Resolves DataVersion values into their update name.",
-  "editions" : ["JAVA"],
-  "extension_types" : ["NBT_EDITOR_STYLE"],
-  "tags" : []
-}
+link=https://github.com/MattPryze/DataVersionResolver
+commit=b33a847d7ab6dce97ea1d0dc1cb678101d3a4003
