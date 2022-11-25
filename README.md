@@ -54,7 +54,7 @@ Extensions are written in [Lua 5.3](https://www.lua.org/manual/5.3/). The manife
 ## Submitting an extension
 
 1. Fork this [extension-hub repository](https://github.com/UniversalMinecraftTool/extension-hub).
-2. In your forked repository, create a new file with the name of your extension with these contents:
+2. In your forked repository, create a new file in the `extensions` directory with the name of your extension with these contents:
 
 ```
 link=your repository link
