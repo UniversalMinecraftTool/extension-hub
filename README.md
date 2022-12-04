@@ -15,7 +15,7 @@ Extensions are written in [Lua 5.3](https://www.lua.org/manual/5.3/). The manife
 {
   "link" : "",
   "name" : "ExtensionName",
-  "version" : 1,
+  "version" : "1.0.0",
   "author" : "",
   "description" : "",
   "editions" : ["JAVA", "BEDROCK", "CONSOLE"],
