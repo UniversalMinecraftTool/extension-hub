@@ -74,3 +74,9 @@ commit=40 char commit hash
 1. Increment the `version` field in the `manifest.json` file.
 2. Update the `commit` field in your forked repository with the new commit hash.
 3. Open a new pull request and enter a brief description of the changes made since the previously published version.
+
+## Thumbnail
+
+Thumbnail images are optional. They should be 64x64 pixels in .png format. Add the thumbnail image to the root directory of the extension repository with the name `thumbnail.png`.
+
+If no thumbnail is supplied, a default image will be used.
