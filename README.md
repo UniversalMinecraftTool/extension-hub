@@ -77,6 +77,6 @@ commit=40 char commit hash
 
 ## Thumbnail
 
-Thumbnail images are optional. They should be 64x64 pixels in .png format. Add the thumbnail image to the root directory of the extension repository with the name `thumbnail.png`.
+Thumbnail images are optional. They should be no larger than 64x64 pixels in .png format. Add the thumbnail image to the root directory of the extension repository with the name `thumbnail.png`.
 
 If no thumbnail is supplied, a default image will be used.
